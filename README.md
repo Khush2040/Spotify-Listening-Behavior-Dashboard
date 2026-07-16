@@ -17,17 +17,6 @@ The objective of this project is to:
 - Discover peak listening hours.
 - Compare new versus repeat artist listening patterns.
 
----
-
-## 📊 Dashboard Preview
-
-> **Dashboard Screenshot**
-
-![Spotify Dashboard](images/dashboard.png)
-
-*(Replace the image path with your uploaded dashboard screenshot.)*
-
----
 
 ## 📂 Dataset
 
@@ -98,21 +87,6 @@ The dataset includes:
 | Total Streams | 149,860 |
 | Total Songs | 13,838 |
 | Unique Artists | 4,113 |
-
----
-
-## 📁 Repository Structure
-
-```
-Spotify-Listening-Behavior-Dashboard/
-│
-├── Dashboard Screenshot.png
-├── Spotify Listening Dashboard.twbx
-├── spotify_history.csv
-├── README.md
-└── images/
-    └── dashboard.png
-```
 
 ---
 
